@@ -1,6 +1,6 @@
 # Hi there! I'm Abdelkarim 👋
 
-![karimabd84] (banner_1500x500.jpg)
+![karimabd84] (banner.jpg)
 
 <!--
 **karimabd84/karimabd84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
