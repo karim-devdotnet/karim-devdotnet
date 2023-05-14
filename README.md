@@ -1,11 +1,13 @@
-<h1 align="center">Hi there 👋, I'm I'm Abdelkarim</h1>
-<h3 align="center">A .Net full stack developer from Germany</h3>
+<h1 align="center">Hi there 👋, I'm Abdelkarim</h1>
+<img src="banner.png" alt="karimabd84"/>
+
+<!--<h3 align="center">A .Net full stack developer from Germany</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=karimabd84&label=Profile%20views&color=0e75b6&style=flat" alt="karimabd84" /> </p>
 
-- 🔭 I’m currently working at [VIVAVIS AG](https://www.vivavis.com)
+- 🔭 I’m currently working at [VIVAVIS AG](https://www.vivavis.com) in Germany
 
-- 👨‍💻 All of my projects are available at [coming soon!](coming soon!)
+<!--- 👨‍💻 All of my projects are available at [coming soon!](coming soon!)-->
 
 - 💬 Ask me about **c#, asp.net, web api, angular**
 
@@ -13,8 +15,9 @@
 
 ## Connect with me
 <p align="left">
-<a href="https://dev.to/karimabd84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="karimabd84" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/abdelkarim-abdallah-1869a439" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelkarim-abdallah-1869a439" height="30" width="40" /></a>
+  <a href="https://dev.to/karimabd84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/xing.svg" alt="karimabd84" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abdelkarim-abdallah-1869a439" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abdelkarim abdallah" height="30" width="40" /></a>
+  <a href="https://dev.to/karimabd84" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="karimabd84" height="30" width="40" /></a>
 </p>
 
 ## Languages and Tools
