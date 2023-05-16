@@ -9,7 +9,7 @@
 
 <!--- 👨‍💻 All of my projects are available at [coming soon!](coming soon!)-->
 
-- 💬 Ask me about **c#, asp.net, web api, angular**
+- 💬 Ask me about **.net, c#, asp.net, web api, angular, sql**
 
 - 📫 How to reach me **abdelkarim.esti@gmail.com**
 
